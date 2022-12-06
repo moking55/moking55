@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moking55" alt="moking55" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Flutter,Deno**
+- 🌱 I’m currently learning **Go & Ruby on rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moking55](https://github.com/moking55)
-
-- 📝 I regularly write articles on [https://2th.me/@stupidsenpai](https://2th.me/@stupidsenpai)
 
 - 📫 How to reach me **moking55@hotmail.com**
 
