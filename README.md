@@ -1,21 +1,52 @@
-<h1 align="center">Hi 👋, I'm Codename_T</h1>
-<h3 align="center">I have no idea why you're here but well let's start scrolling and learn more about me if you want.</h3>
+  <a href="https://codename-t.com/">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=55FF55&center=true&vCenter=true&repeat=false&width=460&lines=%F0%9F%91%8B+Hello%2C+I'm+Codename_T" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moking55&label=Profile%20views&color=0e75b6&style=flat" alt="moking55" /> </p>
+## About Me
+I'm a passionate Computer Science Student currently studying at Maejo University. I have always been interested in technology and how it can be used to solve problems and improve people's lives. Apart from that, I am also a big fan of gaming, and I love to spend my free time playing video games or messing around with people on the internet.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moking55" alt="moking55" /></a> </p>
+## A Little More About Me
+My pen name is Codename_T, and I'm just a simple 20-year-old from Thailand. I enjoy sitting immersed in front of the screen and focus on my code in my free time. Programming is not only a hobby for me but a way of life. I love to learn and explore new technologies and always try to improve my skills.
 
-- 🌱 I’m currently learning **Go & Ruby on rails**
+While I consider myself a kind person, I do have a salty side. I apologize in advance if I ever come across that way. It's just my passion for what I do that sometimes gets the better of me.
 
-- 👨‍💻 All of my projects are available at [https://github.com/moking55](https://github.com/moking55)
+## Why I'm Here
+Ever since I was a young boy, I have always wanted to make an impact on the world. I wanted to do something that matters and connect with people everywhere. I believe that through technology, we can make a difference and create a better world for everyone. While things may not have gone exactly as planned, I'm still having a good time learning and growing every day.
 
-- 📫 How to reach me **moking55@hotmail.com**
+## What I Do
+I have a strong background in software development and am proficient in several programming languages, including **PHP, Javascript, Python, HTML, and CSS**. I also have experience working with popular frameworks like **CodeIgniter 4, VueJS, and Bootstrap**, which I often use to build complex applications that meet my clients' unique needs. In addition, I'm well-versed in various databases, including **MySQL and Firebase.**
 
-- ⚡ Fun fact **I'm *I think* really open-minded about anything as long as it does not affect my life: You do You, and I do me.**
+As a lifelong learner, I'm always eager to expand my knowledge and try new things. That's why I'm currently focused on learning cutting-edge technologies like **Go, Typescript, and Nuxt.** I believe that keeping up with the latest trends and tools is crucial for staying competitive in the fast-paced world of software development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moking55&show_icons=true&locale=en" alt="moking55" /></p>
+<p align="center"><img align="center" width="55%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=&fontSize=16&lineCount=3&theme=cyberpunk&gap=9&hideTitle=true&line1=php,PHP,8993be;javascript,Javascript,f0db4f;python,Python,4584b6;html5,html,e34c26;&line2=css3,css,264de4;Codeigniter,Codeigniter,dd4814;vue.js,vue.js,42b883;bootstrap,bootstrap,563d7c;&line3=mysql,mysql,00758f;firebase,firebase,FFA611;" alt="My Tech Stack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moking55&" alt="moking55" /></p>
+
+<br>
+
+<!-- GITHUB STATS -->
+<hr>
+<div style="display: block;">
+
+<p><h2>Stats:</h2></p>
+  
+<a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=moking55&show_icons=true&theme=radical&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=moking55&show_icons=true&theme=radical" alt="josuerv99" /></p></a>  
+  </p>
+</p>
+</div>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
