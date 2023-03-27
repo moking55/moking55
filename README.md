@@ -6,7 +6,7 @@
 I'm a passionate Computer Science Student currently studying at Maejo University. I have always been interested in technology and how it can be used to solve problems and improve people's lives. Apart from that, I am also a big fan of gaming, and I love to spend my free time playing video games or messing around with people on the internet.
 
 ## A Little More About Me
-My pen name is Codename_T, and I'm just a simple 20-year-old from Thailand. I enjoy sitting immersed in front of the screen and focus on my code in my free time. Programming is not only a hobby for me but a way of life. I love to learn and explore new technologies and always try to improve my skills.
+My pen name is Codename_T, and I'm from Thailand. I enjoy sitting immersed in front of the screen and focus on my code in my free time. Programming is not only a hobby for me but a way of life. I love to learn and explore new technologies and always try to improve my skills.
 
 While I consider myself a kind person, I do have a salty side. I apologize in advance if I ever come across that way. It's just my passion for what I do that sometimes gets the better of me.
 
