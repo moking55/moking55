@@ -2,6 +2,8 @@
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=55FF55&center=true&vCenter=true&repeat=false&width=460&lines=%F0%9F%91%8B+Hello%2C+I'm+Codename_T" alt="Typing SVG" />
 </a>
 
+<h1 align="center"> Temporary move to gitlab 🍃</h1>
+
 ## ✨ About Me
 I'm a passionate Computer Science Student currently studying at Maejo University. I have always been interested in technology and how it can be used to solve problems and improve people's lives. Apart from that, I am also a big fan of gaming, and I love to spend my free time playing video games or messing around with people on the internet.
 
